@@ -163,6 +163,7 @@
   },
   "banners": {
     "index": {
+      "rawHTML": "<p class=\"home-version home-version-banner\" style=\"font-size: large; text-align: left; line-height: 1.25; \">我们希望世界和平</p>",
       "text": "针对 Node.js 12、14、16 和 17 各版本的安全补丁现已发布"
     }
   }
